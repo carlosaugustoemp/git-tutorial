@@ -1,2 +1,2 @@
-# git-tutorial (Exemplo de Projeto no GitHub)
+# git-tutorial (Exemplo de Projeto no GitHub2)
 
